@@ -1,0 +1,2820 @@
+{
+ "meta": {
+  "generated": "2026-11-18",
+  "window": "1 Nov to 18 Nov 2026",
+  "yoyWindow": "2 Nov to 19 Nov 2025",
+  "source": "Signal AI MCP (content, events, resolve) and uploaded readership report"
+ },
+ "W": [
+  [
+   "31 Aug",
+   12425,
+   7
+  ],
+  [
+   "7 Sep",
+   14404,
+   7
+  ],
+  [
+   "14 Sep",
+   22846,
+   7
+  ],
+  [
+   "21 Sep",
+   21020,
+   7
+  ],
+  [
+   "28 Sep",
+   25000,
+   7
+  ],
+  [
+   "5 Oct",
+   31285,
+   7
+  ],
+  [
+   "12 Oct",
+   33160,
+   7
+  ],
+  [
+   "19 Oct",
+   41083,
+   7
+  ],
+  [
+   "26 Oct",
+   67925,
+   7
+  ],
+  [
+   "2 Nov",
+   178713,
+   7
+  ],
+  [
+   "9 Nov",
+   266294,
+   7
+  ],
+  [
+   "16 Nov*",
+   143013,
+   3
+  ]
+ ],
+ "L": [
+  [
+   "Amazon",
+   45371
+  ],
+  [
+   "Samsung",
+   26498
+  ],
+  [
+   "Apple",
+   16448
+  ],
+  [
+   "The Home Depot",
+   11763
+  ],
+  [
+   "Walmart",
+   11323
+  ],
+  [
+   "Sony",
+   4923
+  ],
+  [
+   "Macy's",
+   4214
+  ],
+  [
+   "Best Buy",
+   3287
+  ],
+  [
+   "Costco",
+   3124
+  ],
+  [
+   "Kmart Australia",
+   2330
+  ],
+  [
+   "Nike",
+   2217
+  ],
+  [
+   "Lowe's",
+   1203
+  ],
+  [
+   "eBay",
+   1182
+  ],
+  [
+   "Target",
+   931
+  ],
+  [
+   "Argos",
+   572
+  ],
+  [
+   "Currys",
+   564
+  ],
+  [
+   "Etsy",
+   526
+  ],
+  [
+   "Shein",
+   504
+  ],
+  [
+   "Temu",
+   452
+  ],
+  [
+   "Myer",
+   304
+  ],
+  [
+   "Kohl's",
+   294
+  ]
+ ],
+ "BR": {
+  "Amazon": {
+   "w": [
+    553,
+    1113,
+    1162,
+    1292,
+    1395,
+    1437,
+    871,
+    787,
+    1608,
+    3619,
+    3635,
+    4013,
+    3772,
+    2804,
+    3173,
+    4978,
+    5934,
+    5628
+   ],
+   "s": [
+    24811,
+    20066,
+    683
+   ]
+  },
+  "Apple": {
+   "w": [
+    289,
+    618,
+    818,
+    749,
+    752,
+    796,
+    528,
+    422,
+    865,
+    982,
+    1044,
+    1269,
+    1195,
+    757,
+    678,
+    1426,
+    1777,
+    1446
+   ],
+   "s": [
+    4639,
+    10740,
+    747
+   ]
+  },
+  "Walmart": {
+   "w": [
+    171,
+    346,
+    375,
+    412,
+    427,
+    462,
+    307,
+    412,
+    542,
+    606,
+    613,
+    1053,
+    1058,
+    935,
+    746,
+    1128,
+    1123,
+    817
+   ],
+   "s": [
+    5919,
+    5362,
+    165
+   ]
+  },
+  "Best Buy": {
+   "w": [
+    89,
+    174,
+    162,
+    136,
+    146,
+    256,
+    137,
+    147,
+    199,
+    249,
+    163,
+    272,
+    281,
+    135,
+    113,
+    231,
+    282,
+    193
+   ],
+   "s": [
+    1820,
+    1510,
+    13
+   ]
+  },
+  "Costco": {
+   "w": [
+    63,
+    203,
+    221,
+    165,
+    177,
+    172,
+    131,
+    149,
+    154,
+    189,
+    179,
+    202,
+    175,
+    114,
+    70,
+    235,
+    316,
+    273
+   ],
+   "s": [
+    1096,
+    1980,
+    71
+   ]
+  },
+  "Target": {
+   "w": [
+    26,
+    54,
+    43,
+    43,
+    61,
+    45,
+    23,
+    58,
+    89,
+    65,
+    46,
+    65,
+    52,
+    44,
+    12,
+    75,
+    85,
+    74
+   ],
+   "s": [
+    407,
+    503,
+    7
+   ]
+  },
+  "Shein": {
+   "w": [
+    60,
+    37,
+    31,
+    25,
+    40,
+    28,
+    10,
+    8,
+    17,
+    28,
+    75,
+    30,
+    28,
+    8,
+    4,
+    21,
+    40,
+    25
+   ],
+   "s": [
+    268,
+    213,
+    25
+   ]
+  },
+  "Temu": {
+   "w": [
+    65,
+    38,
+    21,
+    22,
+    31,
+    21,
+    5,
+    4,
+    15,
+    29,
+    31,
+    21,
+    30,
+    9,
+    4,
+    24,
+    55,
+    38
+   ],
+   "s": [
+    181,
+    234,
+    40
+   ]
+  }
+ },
+ "DL": [
+  "Sun 1",
+  "Mon 2",
+  "Tue 3",
+  "Wed 4",
+  "Thu 5",
+  "Fri 6",
+  "Sat 7",
+  "Sun 8",
+  "Mon 9",
+  "Tue 10",
+  "Wed 11",
+  "Thu 12",
+  "Fri 13",
+  "Sat 14",
+  "Sun 15",
+  "Mon 16",
+  "Tue 17",
+  "Wed 18"
+ ],
+ "DAILY": [
+  7165,
+  13828,
+  16616,
+  18629,
+  21243,
+  21905,
+  16632,
+  15620,
+  24068,
+  27252,
+  29497,
+  33043,
+  33061,
+  24509,
+  24249,
+  37262,
+  40533,
+  32933
+ ],
+ "WE": {
+  "0": 1,
+  "6": 1,
+  "7": 1,
+  "13": 1,
+  "14": 1
+ },
+ "BD": {
+  "Amazon": [
+   553,
+   1113,
+   1162,
+   1292,
+   1395,
+   1437,
+   871,
+   787,
+   1608,
+   3619,
+   3635,
+   4013,
+   3772,
+   2804,
+   3173,
+   4978,
+   5934,
+   5628
+  ],
+  "Apple": [
+   289,
+   618,
+   818,
+   749,
+   752,
+   796,
+   528,
+   422,
+   865,
+   982,
+   1044,
+   1269,
+   1195,
+   757,
+   678,
+   1426,
+   1777,
+   1446
+  ],
+  "Walmart": [
+   171,
+   346,
+   375,
+   412,
+   427,
+   462,
+   307,
+   412,
+   542,
+   606,
+   613,
+   1053,
+   1058,
+   935,
+   746,
+   1128,
+   1123,
+   817
+  ],
+  "Best Buy": [
+   89,
+   174,
+   162,
+   136,
+   146,
+   256,
+   137,
+   147,
+   199,
+   249,
+   163,
+   272,
+   281,
+   135,
+   113,
+   231,
+   282,
+   193
+  ],
+  "Costco": [
+   63,
+   203,
+   221,
+   165,
+   177,
+   172,
+   131,
+   149,
+   154,
+   189,
+   179,
+   202,
+   175,
+   114,
+   70,
+   235,
+   316,
+   273
+  ],
+  "Target": [
+   26,
+   54,
+   43,
+   43,
+   61,
+   45,
+   23,
+   58,
+   89,
+   65,
+   46,
+   65,
+   52,
+   44,
+   12,
+   75,
+   85,
+   74
+  ],
+  "Shein": [
+   60,
+   37,
+   31,
+   25,
+   40,
+   28,
+   10,
+   8,
+   17,
+   28,
+   75,
+   30,
+   28,
+   8,
+   4,
+   21,
+   40,
+   25
+  ],
+  "Temu": [
+   65,
+   38,
+   21,
+   22,
+   31,
+   21,
+   5,
+   4,
+   15,
+   29,
+   31,
+   21,
+   30,
+   9,
+   4,
+   24,
+   55,
+   38
+  ]
+ },
+ "BW": [
+  "Sun 1",
+  "Mon 2",
+  "Tue 3",
+  "Wed 4",
+  "Thu 5",
+  "Fri 6",
+  "Sat 7",
+  "Sun 8",
+  "Mon 9",
+  "Tue 10",
+  "Wed 11",
+  "Thu 12",
+  "Fri 13",
+  "Sat 14",
+  "Sun 15",
+  "Mon 16",
+  "Tue 17",
+  "Wed 18"
+ ],
+ "EXTRA": [
+  [
+   "Samsung",
+   [
+    17094,
+    9579,
+    326
+   ]
+  ],
+  [
+   "Home Depot",
+   [
+    6334,
+    5375,
+    36
+   ]
+  ]
+ ],
+ "DEALS": [
+  [
+   "\"% off\" and percentage discounts",
+   55485
+  ],
+  [
+   "Early access / early Black Friday",
+   14904
+  ],
+  [
+   "Doorbusters, flash and limited-time",
+   9210
+  ],
+  [
+   "Week-long events (Black Week, Cyber Week)",
+   8780
+  ],
+  [
+   "Price match and record-low pricing",
+   7210
+  ],
+  [
+   "Free shipping and delivery",
+   6872
+  ],
+  [
+   "BOGO and bundles",
+   5928
+  ],
+  [
+   "Trade-in, cashback and member perks",
+   4496
+  ],
+  [
+   "Buy now pay later and financing",
+   2535
+  ],
+  [
+   "Gift cards and free gifts",
+   2516
+  ]
+ ],
+ "CATS": [
+  [
+   "Electronics and devices",
+   24372
+  ],
+  [
+   "Food and drink",
+   20358
+  ],
+  [
+   "Fashion and beauty",
+   18124
+  ],
+  [
+   "Home and kitchen",
+   17014
+  ],
+  [
+   "Gaming",
+   16917
+  ],
+  [
+   "Cars and EVs",
+   14210
+  ],
+  [
+   "Travel",
+   11899
+  ],
+  [
+   "Toys",
+   6398
+  ]
+ ],
+ "ANG": [
+  [
+   "Economy and spending (tariffs, inflation, confidence)",
+   13164
+  ],
+  [
+   "Scam, fraud and fake-deal warnings",
+   7418
+  ],
+  [
+   "AI shopping tools and agents",
+   6996
+  ]
+ ],
+ "TABS": {
+  "deals": {
+   "label": "Deal types",
+   "data": [
+    [
+     "\"% off\" and percentage discounts",
+     55485
+    ],
+    [
+     "Early access / early Black Friday",
+     14904
+    ],
+    [
+     "Doorbusters, flash and limited-time",
+     9210
+    ],
+    [
+     "Week-long events (Black Week, Cyber Week)",
+     8780
+    ],
+    [
+     "Price match and record-low pricing",
+     7210
+    ],
+    [
+     "Free shipping and delivery",
+     6872
+    ],
+    [
+     "BOGO and bundles",
+     5928
+    ],
+    [
+     "Trade-in, cashback and member perks",
+     4496
+    ],
+    [
+     "Buy now pay later and financing",
+     2535
+    ],
+    [
+     "Gift cards and free gifts",
+     2516
+    ]
+   ],
+   "c": "#FF585D",
+   "note": "\"% off\" framing appears in 55,485 non-broadcast stories, 3.7× the next biggest hook, early access (14,904). Buy now pay later (2,535) and gift-with-purchase (2,516) are the least used."
+  },
+  "cats": {
+   "label": "Categories",
+   "data": [
+    [
+     "Electronics and devices",
+     24372
+    ],
+    [
+     "Food and drink",
+     20358
+    ],
+    [
+     "Fashion and beauty",
+     18124
+    ],
+    [
+     "Home and kitchen",
+     17014
+    ],
+    [
+     "Gaming",
+     16917
+    ],
+    [
+     "Cars and EVs",
+     14210
+    ],
+    [
+     "Travel",
+     11899
+    ],
+    [
+     "Toys",
+     6398
+    ]
+   ],
+   "c": "#6446FF",
+   "note": "Electronics lead (24,372), but food and drink (20,358) and fashion and beauty (18,124) show the season is not only about gadgets. Gaming (16,917) is already a big draw."
+  },
+  "ang": {
+   "label": "Surrounding themes",
+   "data": [
+    [
+     "Economy and spending (tariffs, inflation, confidence)",
+     13164
+    ],
+    [
+     "Scam, fraud and fake-deal warnings",
+     7418
+    ],
+    [
+     "AI shopping tools and agents",
+     6996
+    ]
+   ],
+   "c": "#AF46B4",
+   "note": "Alongside the promotions, three themes run in parallel: economic pressure (13,164), scam and fraud warnings (7,418) and AI shopping tools (6,996)."
+  }
+ },
+ "HL": [
+  [
+   "Percent off",
+   "Funko's Black Friday deals see up to 70% off Disney, Star Wars and more",
+   "Digital Spy · UK",
+   "31fc64c0-8835-38e2-9dad-3d55c6eafa0d"
+  ],
+  [
+   "Early access",
+   "Amazon is selling a $510 vacuum for $140, an Apple iPad for $170, plus 75 more early Black Friday deals",
+   "Yahoo Style Canada",
+   "932a1c6e-9237-37d3-bd6f-0ad08e286bb5"
+  ],
+  [
+   "Week-long event",
+   "A stress-free, value-for-money Christmas with Lidl's Black Weeks, with discounts of up to 60%",
+   "Webmagazín.Teraz.sk · Slovakia",
+   "a272ba97-ab29-3f95-9a67-311b68200e5f"
+  ],
+  [
+   "Trade-in",
+   "Amazon Fire TV Stick 4K for just £27.99 with Black Friday trade-in deal",
+   "Upstract",
+   "9a263ce8-d9db-3ea6-aa71-159d0a992ac9"
+  ],
+  [
+   "Percent off",
+   "Up to €1,040 off the Samsung Galaxy Z Fold 8 Ultra for Amazon Black Friday",
+   "La Voix du Nord · France",
+   "fabc7430-cbda-3448-b4bc-3773dedfad4c"
+  ],
+  [
+   "Percent off",
+   "Amazon Alexa Tablet 8 slashed by 50%: new tablet for €114.99",
+   "Italia Top Games · Italy",
+   "c50bc2c1-750a-32cf-8d6a-fe7dd7a91bcd"
+  ],
+  [
+   "Cars and finance",
+   "Black Friday car deal alert: boosted Hyundai deposit contributions on Tucson, Santa Fe, Kona, Ioniq 9 and Bayon",
+   "Auto Express · UK",
+   "cf25b50a-b1bc-363b-b557-ed95b8a195ee"
+  ],
+  [
+   "Consumer protection",
+   "Rio das Ostras Procon offers guidance on Black Friday shopping",
+   "Prefeitura de Rio das Ostras · Brazil",
+   "fb68c8d9-c868-327b-8ba9-67f4b5b0cc7f"
+  ]
+ ],
+ "MT": [
+  [
+   "Broadcast",
+   301925
+  ],
+  [
+   "News",
+   101702
+  ],
+  [
+   "Social",
+   15792
+  ],
+  [
+   "Podcast",
+   9446
+  ],
+  [
+   "Print",
+   6990
+  ]
+ ],
+ "CT": [
+  [
+   "United States",
+   116325
+  ],
+  [
+   "Australia",
+   90333
+  ],
+  [
+   "United Kingdom",
+   86529
+  ],
+  [
+   "Canada",
+   57171
+  ],
+  [
+   "Ireland",
+   12361
+  ],
+  [
+   "Brazil",
+   7656
+  ],
+  [
+   "Germany",
+   6455
+  ],
+  [
+   "France",
+   5715
+  ],
+  [
+   "Spain",
+   3550
+  ],
+  [
+   "Japan",
+   3361
+  ]
+ ],
+ "TP": [
+  [
+   "Consumer Products",
+   43844
+  ],
+  [
+   "eCommerce",
+   39650
+  ],
+  [
+   "Value For Money",
+   37263
+  ],
+  [
+   "Online Marketplaces",
+   34989
+  ],
+  [
+   "Holiday Shopping",
+   31186
+  ],
+  [
+   "Promotions",
+   27085
+  ],
+  [
+   "Manufacturing",
+   23188
+  ],
+  [
+   "Engineering",
+   19486
+  ],
+  [
+   "Product Launches",
+   18840
+  ],
+  [
+   "Press Releases",
+   7597
+  ]
+ ],
+ "EV": [
+  [
+   "Promotions",
+   "2 Nov",
+   "Watches of Switzerland Group unveils 'Brilliantly Given' holiday campaign",
+   "8 stories · 147 sources",
+   "c5e4d578-a417-3d79-80b6-acc2ca1842df"
+  ],
+  [
+   "Consumer outlook",
+   "3 Nov",
+   "Fiserv Small Business Index shows sales momentum heading into the holiday season",
+   "4 stories · 114 sources",
+   "6289791e-9d7d-3045-acbf-2116136de5ea"
+  ],
+  [
+   "Sellers and risk",
+   "3 Nov",
+   "Holiday shopping surge brings renewed attention to workplace injury risks for Georgia seasonal workers",
+   "6 stories · 213 sources",
+   "05be2738-312e-31d5-abc3-5c9a26a83068"
+  ],
+  [
+   "Sellers and risk",
+   "5 Nov",
+   "Brand-risk warning for Etsy and Amazon sellers before Black Friday (Indie Law)",
+   "5 stories · 205 sources",
+   "f21d2acd-9e68-3649-816c-154ccfce41cc"
+  ],
+  [
+   "Promotions",
+   "6 Nov",
+   "REI Co-op's biggest sale of the holiday season runs 13 to 23 November",
+   "7 stories · 105 sources",
+   "67d91e25-af20-33dd-aa16-266368503cff"
+  ],
+  [
+   "Promotions",
+   "10 Nov",
+   "Laifen Black Friday: up to 42% off personal care tech for US shoppers",
+   "4 stories · 108 sources",
+   "bb709eae-dd4d-384f-ba01-1fc45dc5bc22"
+  ],
+  [
+   "Travel",
+   "11 Nov",
+   "Holland America Line gives travellers early access to Black Friday savings",
+   "8 stories · 142 sources",
+   "1dd34816-2e61-380c-8822-b4883ab28173"
+  ],
+  [
+   "Sellers and risk",
+   "11 Nov",
+   "Dylanex issues Q4 inventory guidance for Amazon sellers ahead of the holiday shopping season",
+   "6 stories · 107 sources",
+   "be92ace1-f732-34cc-8675-b897435cc6df"
+  ],
+  [
+   "Travel",
+   "13 Nov",
+   "Muy'Ono Resorts announces Black Friday sale with 50% off Belize stays",
+   "10 stories · 125 sources",
+   "efb18f6e-0cd1-33ff-927d-2590492a2e2a"
+  ],
+  [
+   "Promotions",
+   "14 Nov",
+   "Eureka Ergonomic Royal Series Black Friday: eight leather executive chairs from $299",
+   "4 stories · 136 sources",
+   "1e45a22f-7ee7-315a-8fc8-7b8d6b9e1262"
+  ],
+  [
+   "Promotions",
+   "16 Nov",
+   "KuCoin PROOF announces Black Friday prizes worth over 1.1 million USDT (the most-covered event of the month)",
+   "20 stories · 236 sources",
+   "fc55047c-57de-367b-b90b-75ee34c7c99b"
+  ],
+  [
+   "Promotions",
+   "16 Nov",
+   "Mall of America prepares to set a Guinness World Record this Black Friday",
+   "1 story · 127 sources",
+   "cad5b398-95ca-3a2c-8729-e6724d8aad98"
+  ],
+  [
+   "Promotions",
+   "17 Nov",
+   "7-Eleven serves up savings for Thanksgiving, Black Friday and Cyber Monday",
+   "9 stories · 160 sources",
+   "3f027876-40b0-3e09-9215-cfa97a2ce719"
+  ],
+  [
+   "Consumer outlook",
+   "17 Nov",
+   "Deloitte: 47% of Americans plan to travel this holiday season as travellers adapt to make trips work",
+   "9 stories · 142 sources",
+   "c2088515-3b6f-3959-b7a9-022e78a9b6b8"
+  ],
+  [
+   "Travel",
+   "17 Nov",
+   "Seabourn announces annual Black Friday sale on nearly all voyages through 2029",
+   "3 stories · 103 sources",
+   "2f692d20-c2bf-3cc4-9f80-d362e4f1c6ec"
+  ]
+ ],
+ "LY": [
+  204951,
+  301333,
+  453493,
+  681707,
+  378232,
+  243723
+ ],
+ "TY": [
+  178713,
+  266294,
+  null,
+  null,
+  null,
+  null
+ ],
+ "TL": [
+  "BF week −3",
+  "−2",
+  "−1",
+  "BF week",
+  "+1",
+  "+2"
+ ],
+ "W25": [
+  "3 Nov",
+  "10 Nov",
+  "17 Nov",
+  "24 Nov",
+  "1 Dec",
+  "8 Dec"
+ ],
+ "W26": [
+  "2 Nov",
+  "9 Nov",
+  "16 Nov",
+  "23 Nov",
+  "30 Nov",
+  "7 Dec"
+ ],
+ "D25": [
+  7939,
+  14277,
+  17003,
+  20657,
+  27042,
+  26828,
+  19821,
+  18678,
+  29256,
+  30689,
+  33979,
+  36731,
+  39355,
+  29254,
+  27151,
+  44527,
+  44867,
+  51013
+ ],
+ "DL25": [
+  "Sun 2",
+  "Mon 3",
+  "Tue 4",
+  "Wed 5",
+  "Thu 6",
+  "Fri 7",
+  "Sat 8",
+  "Sun 9",
+  "Mon 10",
+  "Tue 11",
+  "Wed 12",
+  "Thu 13",
+  "Fri 14",
+  "Sat 15",
+  "Sun 16",
+  "Mon 17",
+  "Tue 18",
+  "Wed 19"
+ ],
+ "YO": {
+  "media": {
+   "pin": [
+    "All stories (daily total)",
+    519067,
+    438045
+   ],
+   "rows": [
+    [
+     "Broadcast",
+     368705,
+     301925
+    ],
+    [
+     "News",
+     125215,
+     101702
+    ],
+    [
+     "Social",
+     6222,
+     15792
+    ],
+    [
+     "Podcast",
+     13767,
+     9446
+    ],
+    [
+     "Print",
+     6244,
+     6990
+    ]
+   ],
+   "name": "Media type",
+   "why": "The headline drop is mostly broadcast. Broadcast fell by 66,780 stories, 79% of the net loss of 84,298, and news fell by another 23,513. Social is the exception, up 154% (6,222 to 15,792), and print rose 12%. Without broadcast, volume is down 11.6% (151,448 to 133,930). Broadcast is about 70% of stories in both years, so small changes in broadcast schedules or sources move the headline. What the counts cannot tell you is whether fewer broadcast promotions aired or fewer broadcast sources were monitored. The media-type counts sum to slightly less than the daily total because of how stories are classified."
+  },
+  "countries": {
+   "rows": [
+    [
+     "United States",
+     186792,
+     116325
+    ],
+    [
+     "Australia",
+     63043,
+     90333
+    ],
+    [
+     "United Kingdom",
+     94937,
+     86529
+    ],
+    [
+     "Canada",
+     76352,
+     57171
+    ],
+    [
+     "Ireland",
+     12422,
+     12361
+    ],
+    [
+     "Brazil",
+     8921,
+     7656
+    ],
+    [
+     "Germany",
+     6069,
+     6455
+    ],
+    [
+     "France",
+     7344,
+     5715
+    ],
+    [
+     "Spain",
+     7952,
+     3550
+    ],
+    [
+     "Japan",
+     10159,
+     3361
+    ]
+   ],
+   "name": "Source country",
+   "why": "The US fell 38% and Canada 25%, while Australia rose 43% and moved from fourth to second. The UK is down 9% and Ireland is flat. Part of this may be real, for example Black Friday growing as a local event in Australia, and part may be the mix of sources monitored, which these counts cannot separate. Treat country moves as directional."
+  },
+  "brands": {
+   "pin": null,
+   "rows": [
+    [
+     "Amazon",
+     51312,
+     45371
+    ],
+    [
+     "Samsung",
+     29934,
+     26498
+    ],
+    [
+     "Apple",
+     26551,
+     16448
+    ],
+    [
+     "The Home Depot",
+     14713,
+     11763
+    ],
+    [
+     "Walmart",
+     26810,
+     11323
+    ],
+    [
+     "Sony",
+     6913,
+     4923
+    ],
+    [
+     "Macy's",
+     11325,
+     4214
+    ],
+    [
+     "Best Buy",
+     3443,
+     3287
+    ],
+    [
+     "Costco",
+     3487,
+     3124
+    ],
+    [
+     "Kmart Australia",
+     1514,
+     2330
+    ],
+    [
+     "Nike",
+     2519,
+     2217
+    ],
+    [
+     "Lowe's",
+     5705,
+     1203
+    ],
+    [
+     "eBay",
+     6535,
+     1182
+    ],
+    [
+     "Target",
+     1862,
+     931
+    ],
+    [
+     "Argos",
+     937,
+     572
+    ],
+    [
+     "Currys",
+     1894,
+     564
+    ],
+    [
+     "Etsy",
+     643,
+     526
+    ],
+    [
+     "Shein",
+     722,
+     504
+    ],
+    [
+     "Temu",
+     705,
+     452
+    ],
+    [
+     "Myer",
+     141,
+     304
+    ],
+    [
+     "Kohl's",
+     937,
+     294
+    ]
+   ],
+   "name": "Brand",
+   "why": "Amazon (-12%), Samsung (-11%), Costco (-10%) and Best Buy (-5%) held up about as well as the market or better. The big falls are in general retail and marketplaces: Walmart -58%, Target -50%, Macy's -63%, Kohl's -69%, Currys -70%, Lowe's -79% and eBay -82%, with Apple down 38%. As a result Amazon's lead over Walmart widened from 1.9 times to 4.0 times. The only clear risers are Australian, Kmart (+54%) and Myer (+116%), which fits the country shift. Entity counts can swing when sources or tagging change, so confirm large moves in the platform."
+  },
+  "deals": {
+   "pin": [
+    "All non-broadcast stories",
+    151448,
+    133930
+   ],
+   "rows": [
+    [
+     "\"% off\" and percentage discounts",
+     64093,
+     55485
+    ],
+    [
+     "Early access / early Black Friday",
+     27967,
+     14904
+    ],
+    [
+     "Doorbusters, flash and limited-time",
+     9375,
+     9210
+    ],
+    [
+     "Week-long events (Black Week, Cyber Week)",
+     10081,
+     8780
+    ],
+    [
+     "Price match and record-low pricing",
+     6887,
+     7210
+    ],
+    [
+     "Free shipping and delivery",
+     7845,
+     6872
+    ],
+    [
+     "BOGO and bundles",
+     6079,
+     5928
+    ],
+    [
+     "Trade-in, cashback and member perks",
+     4683,
+     4496
+    ],
+    [
+     "Buy now pay later and financing",
+     1937,
+     2535
+    ],
+    [
+     "Gift cards and free gifts",
+     2400,
+     2516
+    ]
+   ],
+   "name": "Deal type",
+   "why": "Most mechanics moved with the market (non-broadcast down 11.6%): \"% off\" -13%, week-long events -13%, free shipping -12%, doorbusters and BOGO -2%, trade-in -4%. Early access fell furthest at -47%, from 185 to 111 stories per 1,000 non-broadcast stories. Rising against the tide: buy now pay later +31% (1,937 to 2,535), price match and record-low pricing +5%, and gifts +5%. One plausible reading is that starting early is now the norm, so \"early\" is less of a hook, while value assurances and financing are becoming the differentiators. We cannot test that from counts alone. The readership sample still shows \"early\" articles drawing the most readers, so the lower volume may be an opening."
+  },
+  "themes": {
+   "pin": [
+    "All non-broadcast stories",
+    151448,
+    133930
+   ],
+   "rows": [
+    [
+     "Electronics and devices",
+     32064,
+     24372
+    ],
+    [
+     "Food and drink",
+     26810,
+     20358
+    ],
+    [
+     "Fashion and beauty",
+     23626,
+     18124
+    ],
+    [
+     "Home and kitchen",
+     20702,
+     17014
+    ],
+    [
+     "Gaming",
+     18110,
+     16917
+    ],
+    [
+     "Cars and EVs",
+     16301,
+     14210
+    ],
+    [
+     "Travel",
+     12704,
+     11899
+    ],
+    [
+     "Toys",
+     7803,
+     6398
+    ],
+    [
+     "Economy and spending (tariffs, inflation, confidence)",
+     19063,
+     13164
+    ],
+    [
+     "Scam, fraud and fake-deal warnings",
+     7271,
+     7418
+    ],
+    [
+     "AI shopping tools and agents",
+     8938,
+     6996
+    ]
+   ],
+   "name": "Category or theme",
+   "why": "Gaming (-7%), travel (-6%) and cars (-13%) held up better than the market. Electronics (-24%), food and drink (-24%) and fashion and beauty (-23%) fell most. Of the surrounding themes, economic pressure fell 31% and AI shopping 22%, while scam and fraud stories rose 2% against a falling market, lifting their share of non-broadcast stories from 4.8% to 5.5%. The fall in economic language suggests the tariff and inflation framing is a smaller part of the story this year, but that is an inference from counts."
+  }
+ },
+ "S25": {
+  "Amazon": [
+   26839,
+   24402,
+   1059
+  ],
+  "Walmart": [
+   14487,
+   12080,
+   326
+  ],
+  "Target": [
+   672,
+   1161,
+   42
+  ],
+  "Best Buy": [
+   1550,
+   1965,
+   6
+  ],
+  "Costco": [
+   1562,
+   1873,
+   73
+  ],
+  "Apple": [
+   11429,
+   14573,
+   447
+  ],
+  "Temu": [
+   313,
+   350,
+   48
+  ],
+  "Shein": [
+   310,
+   298,
+   123
+  ],
+  "Samsung": [
+   21517,
+   8410,
+   362
+  ],
+  "Home Depot": [
+   7962,
+   6886,
+   243
+  ]
+ },
+ "RD": {
+  "total": 929339,
+  "n": 245,
+  "mean": 3793,
+  "median": 1158,
+  "max": 68429,
+  "top10": 35.5,
+  "top25": 56,
+  "bottomHalf": 5.5,
+  "dateMax": "2026-11-17",
+  "mech": {
+   "early": {
+    "n": 98,
+    "read": 477872,
+    "avg": 4876,
+    "med": 1410
+   },
+   "pct": {
+    "n": 47,
+    "read": 124286,
+    "avg": 2644,
+    "med": 909
+   },
+   "guide": {
+    "n": 23,
+    "read": 143454,
+    "avg": 6237,
+    "med": 2036
+   },
+   "record": {
+    "n": 18,
+    "read": 39107,
+    "avg": 2173,
+    "med": 1827
+   },
+   "gift": {
+    "n": 20,
+    "read": 52938,
+    "avg": 2647,
+    "med": 2141
+   },
+   "member": {
+    "n": 3,
+    "read": 28442,
+    "avg": 9481,
+    "med": 8819
+   },
+   "ship": {
+    "n": 0,
+    "read": 0,
+    "avg": 0,
+    "med": 0
+   },
+   "bnpl": {
+    "n": 0,
+    "read": 0,
+    "avg": 0,
+    "med": 0
+   }
+  },
+  "brands": {
+   "Amazon": {
+    "n": 34,
+    "read": 245682,
+    "avg": 7226,
+    "med": 3291
+   },
+   "Apple": {
+    "n": 16,
+    "read": 68906,
+    "avg": 4307,
+    "med": 1948
+   },
+   "Samsung": {
+    "n": 11,
+    "read": 41931,
+    "avg": 3812,
+    "med": 2297
+   },
+   "Costco": {
+    "n": 3,
+    "read": 50210,
+    "avg": 16737,
+    "med": 16085
+   },
+   "Walmart": {
+    "n": 3,
+    "read": 35100,
+    "avg": 11700,
+    "med": 2173
+   },
+   "Best Buy": {
+    "n": 3,
+    "read": 27595,
+    "avg": 9198,
+    "med": 6739
+   },
+   "Home Depot / Lowe's": {
+    "n": 7,
+    "read": 29009,
+    "avg": 4144,
+    "med": 2849
+   },
+   "Lidl / Aldi": {
+    "n": 2,
+    "read": 38396,
+    "avg": 19198,
+    "med": 19198
+   },
+   "Target": {
+    "n": 1,
+    "read": 1380,
+    "avg": 1380,
+    "med": 1380
+   },
+   "Sony / PlayStation": {
+    "n": 4,
+    "read": 12859,
+    "avg": 3215,
+    "med": 3782
+   }
+  },
+  "pubType": [
+   {
+    "k": "News",
+    "n": 104,
+    "read": 356050,
+    "avg": 3424,
+    "med": 847
+   },
+   {
+    "k": "Tech & Science",
+    "n": 59,
+    "read": 306829,
+    "avg": 5200,
+    "med": 3159
+   },
+   {
+    "k": "Lifestyle",
+    "n": 28,
+    "read": 150896,
+    "avg": 5389,
+    "med": 2285
+   },
+   {
+    "k": "Business & Financial",
+    "n": 42,
+    "read": 47184,
+    "avg": 1123,
+    "med": 94
+   },
+   {
+    "k": "Entertainment",
+    "n": 7,
+    "read": 37249,
+    "avg": 5321,
+    "med": 1361
+   },
+   {
+    "k": "Travel & Tourism",
+    "n": 5,
+    "read": 31131,
+    "avg": 6226,
+    "med": 3551
+   }
+  ],
+  "paywall": [
+   {
+    "k": "No",
+    "n": 158,
+    "read": 707054,
+    "avg": 4475,
+    "med": 1693
+   },
+   {
+    "k": "Yes",
+    "n": 42,
+    "read": 114942,
+    "avg": 2737,
+    "med": 1443
+   },
+   {
+    "k": "Partial",
+    "n": 44,
+    "read": 105240,
+    "avg": 2392,
+    "med": 313
+   }
+  ],
+  "sent": [
+   {
+    "k": "Positive",
+    "n": 198,
+    "read": 750385,
+    "avg": 3790,
+    "med": 1288
+   },
+   {
+    "k": "Neutral",
+    "n": 29,
+    "read": 135022,
+    "avg": 4656,
+    "med": 1011
+   },
+   {
+    "k": "Negative",
+    "n": 15,
+    "read": 33303,
+    "avg": 2220,
+    "med": 891
+   },
+   {
+    "k": "Uncategorized",
+    "n": 3,
+    "read": 10629,
+    "avg": 3543,
+    "med": 662
+   }
+  ],
+  "bench": [
+   {
+    "k": "slightly below",
+    "n": 141,
+    "read": 366229,
+    "avg": 2597,
+    "med": 1507
+   },
+   {
+    "k": "meets",
+    "n": 19,
+    "read": 181158,
+    "avg": 9535,
+    "med": 5754
+   },
+   {
+    "k": "slightly above",
+    "n": 10,
+    "read": 162149,
+    "avg": 16215,
+    "med": 10400
+   },
+   {
+    "k": "above",
+    "n": 7,
+    "read": 122138,
+    "avg": 17448,
+    "med": 8848
+   },
+   {
+    "k": "below",
+    "n": 53,
+    "read": 15167,
+    "avg": 286,
+    "med": 141
+   }
+  ],
+  "pubs": [
+   {
+    "k": "ZDNet",
+    "n": 34,
+    "read": 146921,
+    "avg": 4321,
+    "med": 3195
+   },
+   {
+    "k": "New York Post",
+    "n": 21,
+    "read": 136772,
+    "avg": 6513,
+    "med": 2163
+   },
+   {
+    "k": "The Mirror",
+    "n": 33,
+    "read": 114148,
+    "avg": 3459,
+    "med": 1158
+   },
+   {
+    "k": "Lifehacker",
+    "n": 10,
+    "read": 103467,
+    "avg": 10347,
+    "med": 2916
+   },
+   {
+    "k": "Wired",
+    "n": 12,
+    "read": 43231,
+    "avg": 3603,
+    "med": 1127
+   },
+   {
+    "k": "Today",
+    "n": 3,
+    "read": 40914,
+    "avg": 13638,
+    "med": 7173
+   },
+   {
+    "k": "People",
+    "n": 7,
+    "read": 37249,
+    "avg": 5321,
+    "med": 1361
+   },
+   {
+    "k": "Travel + Leisure",
+    "n": 4,
+    "read": 27950,
+    "avg": 6988,
+    "med": 6742
+   },
+   {
+    "k": "Forbes",
+    "n": 11,
+    "read": 25786,
+    "avg": 2344,
+    "med": 1339
+   },
+   {
+    "k": "Business Insider",
+    "n": 22,
+    "read": 21040,
+    "avg": 956,
+    "med": 67
+   },
+   {
+    "k": "New York Magazine",
+    "n": 5,
+    "read": 20394,
+    "avg": 4079,
+    "med": 3782
+   },
+   {
+    "k": "Fox News",
+    "n": 5,
+    "read": 17425,
+    "avg": 3485,
+    "med": 1316
+   },
+   {
+    "k": "NBC News",
+    "n": 8,
+    "read": 17093,
+    "avg": 2137,
+    "med": 332
+   },
+   {
+    "k": "Huffington Post",
+    "n": 7,
+    "read": 14581,
+    "avg": 2083,
+    "med": 2036
+   }
+  ],
+  "topics": [
+   {
+    "k": "Merchandising - Deals & Promos",
+    "n": 165,
+    "read": 726118,
+    "avg": 4401,
+    "med": 1378
+   },
+   {
+    "k": "Advice - Personal Finances",
+    "n": 8,
+    "read": 46558,
+    "avg": 5820,
+    "med": 2825
+   },
+   {
+    "k": "Merchandising - Availability",
+    "n": 7,
+    "read": 38144,
+    "avg": 5449,
+    "med": 3079
+   },
+   {
+    "k": "Advice - Technology",
+    "n": 4,
+    "read": 19875,
+    "avg": 4969,
+    "med": 5028
+   },
+   {
+    "k": "Industry Trends - Sports & Athletics",
+    "n": 5,
+    "read": 15761,
+    "avg": 3152,
+    "med": 596
+   },
+   {
+    "k": "AI - Use Cases",
+    "n": 3,
+    "read": 9945,
+    "avg": 3315,
+    "med": 664
+   }
+  ],
+  "deals": {
+   "n": 165,
+   "read": 726118,
+   "avg": 4401,
+   "med": 1378
+  },
+  "tags": [
+   {
+    "k": "Black Friday/Cyber Monday (all articles)",
+    "ind": 0,
+    "n": 245,
+    "read": 929339,
+    "avg": 3793,
+    "med": 1158
+   },
+   {
+    "k": "BFCM in the headline",
+    "ind": 1,
+    "n": 150,
+    "read": 587572,
+    "avg": 3917,
+    "med": 968
+   },
+   {
+    "k": "BFCM in the body only",
+    "ind": 1,
+    "n": 95,
+    "read": 341767,
+    "avg": 3598,
+    "med": 1374
+   },
+   {
+    "k": "Any AI tag",
+    "ind": 0,
+    "n": 17,
+    "read": 57891,
+    "avg": 3405,
+    "med": 3159
+   },
+   {
+    "k": "Generative AI",
+    "ind": 1,
+    "n": 15,
+    "read": 48502,
+    "avg": 3233,
+    "med": 3159
+   },
+   {
+    "k": "Gemini",
+    "ind": 1,
+    "n": 10,
+    "read": 38003,
+    "avg": 3800,
+    "med": 3183
+   },
+   {
+    "k": "ChatGPT",
+    "ind": 1,
+    "n": 6,
+    "read": 11696,
+    "avg": 1949,
+    "med": 2085
+   },
+   {
+    "k": "Anthropic",
+    "ind": 1,
+    "n": 4,
+    "read": 12713,
+    "avg": 3178,
+    "med": 2676
+   },
+   {
+    "k": "Climate Change",
+    "ind": 0,
+    "n": 5,
+    "read": 25869,
+    "avg": 5174,
+    "med": 1869
+   },
+   {
+    "k": "Halloween",
+    "ind": 0,
+    "n": 7,
+    "read": 24990,
+    "avg": 3570,
+    "med": 604
+   },
+   {
+    "k": "Tariffs",
+    "ind": 0,
+    "n": 3,
+    "read": 7073,
+    "avg": 2358,
+    "med": 1550
+   },
+   {
+    "k": "Inflation/Recession",
+    "ind": 0,
+    "n": 2,
+    "read": 740,
+    "avg": 370,
+    "med": 370
+   },
+   {
+    "k": "Russia & Ukraine Conflict",
+    "ind": 0,
+    "n": 2,
+    "read": 8853,
+    "avg": 4426,
+    "med": 4426
+   },
+   {
+    "k": "Europe Protests",
+    "ind": 0,
+    "n": 2,
+    "read": 67,
+    "avg": 34,
+    "med": 33
+   }
+  ],
+  "top": [
+   {
+    "h": "All The Best Early Black Friday Deals At Amazon",
+    "pub": "BuzzFeed",
+    "d": "11-10",
+    "read": 68429,
+    "bench": "slightly above",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.buzzfeed.com/maitlandquitmeyer/all-the-best-early-black-friday-deals-at-amazon"
+   },
+   {
+    "h": "Not all early Black Friday deals are worth it. We're tracking the 25+ best so far",
+    "pub": "New York Post",
+    "d": "11-02",
+    "read": 42658,
+    "bench": "meets",
+    "hl": true,
+    "ai": false,
+    "url": "https://nypost.com/shopping/best-early-black-friday-deals-sales-2026/"
+   },
+   {
+    "h": "Martin Lewis-backed 3p-to-use Lidl 'stay warm and cut bills' gadget out Thursday",
+    "pub": "The Mirror",
+    "d": "11-05",
+    "read": 34494,
+    "bench": "above",
+    "hl": false,
+    "ai": false,
+    "url": "https://www.mirror.co.uk/money/shopping-deals/martin-lewis-backed-3p-use-37844954"
+   },
+   {
+    "h": "Old Navy Just Dropped Early Deals Ahead of Black Friday, Starting at $4",
+    "pub": "Today",
+    "d": "11-12",
+    "read": 33636,
+    "bench": "above",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.today.com/shop/old-navy-black-friday-2026-deals-rcna608642"
+   },
+   {
+    "h": "Walmart Will Have Three Major Shopping Events This Holiday Season",
+    "pub": "Lifehacker",
+    "d": "11-02",
+    "read": 32727,
+    "bench": "above",
+    "hl": false,
+    "ai": false,
+    "url": "https://lifehacker.com/tech/walmart-faq-early-black-friday-2026"
+   },
+   {
+    "h": "Costco expert reveals the best times to shop — and it's probably not the most convenient",
+    "pub": "New York Post",
+    "d": "11-02",
+    "read": 30587,
+    "bench": "meets",
+    "hl": false,
+    "ai": false,
+    "url": "https://nypost.com/2026/11/02/lifestyle/costco-expert-reveals-the-best-times-to-shop-report/"
+   },
+   {
+    "h": "We Now Know What Amazon Has in Store for Black Friday and Cyber Monday 2026",
+    "pub": "Lifehacker",
+    "d": "11-06",
+    "read": 23964,
+    "bench": "slightly above",
+    "hl": true,
+    "ai": false,
+    "url": "https://lifehacker.com/tech/amazon-black-friday-cyber-monday-faq-2026"
+   },
+   {
+    "h": "Everything You Should Know About Black Friday 2026 Sales: Early Deals, Dates, and Retailers",
+    "pub": "Lifehacker",
+    "d": "11-04",
+    "read": 23864,
+    "bench": "slightly above",
+    "hl": true,
+    "ai": false,
+    "url": "https://lifehacker.com/tech/what-to-know-about-black-friday-2026-sales"
+   },
+   {
+    "h": "It’s Official! Amazon’s Black Friday Sale Will Last 12 Full Days — the 25 Best Early Deals Start at Just $6",
+    "pub": "People",
+    "d": "11-10",
+    "read": 19797,
+    "bench": "",
+    "hl": true,
+    "ai": false,
+    "url": "https://people.com/amazon-early-black-friday-deals-announcement-2026-12244930"
+   },
+   {
+    "h": "The 22 Best Early Black Friday Deals",
+    "pub": "Wired",
+    "d": "11-07",
+    "read": 19368,
+    "bench": "meets",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.wired.com/story/best-black-friday-deals-11-7-2026/"
+   },
+   {
+    "h": "Best Buy’s massive Black Friday sale starts early with 51%+ off on headphones, appliances and more",
+    "pub": "New York Post",
+    "d": "11-06",
+    "read": 19133,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://nypost.com/shopping/best-buy-early-black-friday-sale-deals-2026/"
+   },
+   {
+    "h": "The best early Black Friday deals: Costco and BJ’s memberships, Apple, and more",
+    "pub": "ZDNet",
+    "d": "11-01",
+    "read": 16085,
+    "bench": "meets",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.zdnet.com/tech/best-early-black-friday-deals-2026/"
+   },
+   {
+    "h": "20 Under-$25 Gifts From Amazon’s Top 100 Gift List",
+    "pub": "Southern Living",
+    "d": "11-02",
+    "read": 14678,
+    "bench": "meets",
+    "hl": false,
+    "ai": false,
+    "url": "https://www.southernliving.com/amazon-top-100-gift-list-finds-under-25-october-2026-12150122"
+   },
+   {
+    "h": "Woman's £100 raincoat 'kept me dry through 50mph storm' drops to £45",
+    "pub": "The Mirror",
+    "d": "11-03",
+    "read": 14647,
+    "bench": "slightly above",
+    "hl": false,
+    "ai": false,
+    "url": "https://www.mirror.co.uk/money/shopping-deals/regatta-waterproof-jacket-perfect-autumn-37834397"
+   },
+   {
+    "h": "These Samsung OLED TVs Are Up to $800 Off in This Early Black Friday Deal",
+    "pub": "Lifehacker",
+    "d": "11-09",
+    "read": 14610,
+    "bench": "slightly above",
+    "hl": true,
+    "ai": false,
+    "url": "https://lifehacker.com/tech/samsungs-s90h-oled-tv-deal-early-black-friday-2026"
+   },
+   {
+    "h": "Amazon’s Black Friday Sale 2026 Dates and Best Early Deals",
+    "pub": "Travel + Leisure",
+    "d": "11-10",
+    "read": 13803,
+    "bench": "",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.travelandleisure.com/amazon-black-friday-sale-2026-dates-announcement-12244961"
+   },
+   {
+    "h": "Amazon just launched new tablets, so the previous generation is is 53% off while supplies last",
+    "pub": "NBC News",
+    "d": "11-01",
+    "read": 13220,
+    "bench": "meets",
+    "hl": false,
+    "ai": false,
+    "url": "https://www.nbcnews.com/select/shopping/amazon-fire-10-tablet-deal-of-the-day-2026-rcna606768"
+   },
+   {
+    "h": "Massive college football brawl ends with 23 players suspended, '90s TV app & ESPN's Laura Rutledge stays hot!",
+    "pub": "Fox News",
+    "d": "11-11",
+    "read": 13195,
+    "bench": "slightly below",
+    "hl": false,
+    "ai": false,
+    "url": "https://www.foxnews.com/outkick-sports/massive-college-football-brawl-ends-23-players-suspended-90s-tv-app-espn-laura-rutledge-stays-hot"
+   },
+   {
+    "h": "B&Q's 'quiet' 5p dehumidifier that 'makes drying clothes so quick' is under £100",
+    "pub": "The Mirror",
+    "d": "11-10",
+    "read": 11304,
+    "bench": "meets",
+    "hl": false,
+    "ai": false,
+    "url": "https://www.mirror.co.uk/money/shopping-deals/bqs-quiet-5p-dehumidifier-makes-37857597"
+   },
+   {
+    "h": "Gwyneth Paltrow’s Zip-Up Sweater Is a Polished Alternative to Your Bulky Fall Layers — Shop Styles from $28",
+    "pub": "People",
+    "d": "11-09",
+    "read": 11106,
+    "bench": "",
+    "hl": false,
+    "ai": false,
+    "url": "https://people.com/gwyneth-paltrow-zip-up-sweater-november-2026-12187498"
+   },
+   {
+    "h": "Macy’s early Black Friday deals include diamond bracelets and Ralph Lauren",
+    "pub": "New York Post",
+    "d": "11-07",
+    "read": 9958,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://nypost.com/shopping/macys-early-black-friday-sale-has-gifts-up-to-70-off/"
+   },
+   {
+    "h": "50 Best Early Amazon Black Friday Travel Deals 2026",
+    "pub": "Travel + Leisure",
+    "d": "11-03",
+    "read": 9934,
+    "bench": "",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.travelandleisure.com/best-amazon-early-black-friday-deals-november-2026-12207637"
+   },
+   {
+    "h": "SharkNinja launches huge Black Friday sale and this coffee machine is top of my list",
+    "pub": "The Mirror",
+    "d": "11-04",
+    "read": 9743,
+    "bench": "meets",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.mirror.co.uk/money/shopping-deals/sharkninja-launches-huge-black-friday-37842440"
+   },
+   {
+    "h": "Best early Black Friday gaming laptop deals: Alienware, HP, and more",
+    "pub": "ZDNet",
+    "d": "11-03",
+    "read": 9715,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.zdnet.com/tech/best-early-black-friday-gaming-laptop-deals-2026/"
+   },
+   {
+    "h": "Best early Black Friday 2026 Samsung deals: TVs, phones, laptops, more",
+    "pub": "ZDNet",
+    "d": "11-03",
+    "read": 9353,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.zdnet.com/tech/best-early-black-friday-samsung-deals-2026/"
+   },
+   {
+    "h": "The Coursera Plus early Black Friday deal can help you save 40% on your first year of learning",
+    "pub": "Business Insider",
+    "d": "11-10",
+    "read": 9294,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.businessinsider.com/guides/deals/coursera-plus-black-friday-deal-2026-11-10"
+   },
+   {
+    "h": "I let Gemini take over my inbox for a few days – here’s what happened",
+    "pub": "ZDNet",
+    "d": "11-13",
+    "read": 9161,
+    "bench": "slightly below",
+    "hl": false,
+    "ai": true,
+    "url": "https://www.zdnet.com/innovation/google-gemini-help-me-write-feature-email/"
+   },
+   {
+    "h": "How Amazon Edged Out Apple To Become America’s Best Company",
+    "pub": "Forbes",
+    "d": "11-12",
+    "read": 8848,
+    "bench": "above",
+    "hl": false,
+    "ai": false,
+    "url": "https://www.forbes.com/sites/hnewman/2026/11/12/how-amazon-edged-out-apple-to-become-americas-best-company/"
+   },
+   {
+    "h": "Amazon's Black Friday Sale Starts Next Week, but Deals Are Already Live",
+    "pub": "Wired",
+    "d": "11-10",
+    "read": 8819,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/"
+   },
+   {
+    "h": "Best early Black Friday MacBook deals: 5 I’d recommend shopping now",
+    "pub": "ZDNet",
+    "d": "11-04",
+    "read": 8796,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.zdnet.com/tech/best-early-black-friday-macbook-deals-2026/"
+   },
+   {
+    "h": "Best early Black Friday 2026 tablet deals",
+    "pub": "ZDNet",
+    "d": "11-03",
+    "read": 7708,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.zdnet.com/tech/best-early-black-friday-tablet-deals-2026/"
+   },
+   {
+    "h": "Leaked TikTok org chart shows how execs from China have gained power in its US e-commerce operations",
+    "pub": "Business Insider",
+    "d": "11-09",
+    "read": 7593,
+    "bench": "slightly below",
+    "hl": false,
+    "ai": false,
+    "url": "https://www.businessinsider.com/tiktok-org-chart-reveals-how-us-e-commerce-team-run-2026-11"
+   },
+   {
+    "h": "The Apple Watch Ultra 4 just hit its lowest price ever ahead of Black Friday",
+    "pub": "ZDNet",
+    "d": "11-02",
+    "read": 7307,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.zdnet.com/tech/apple-watch-ultra-4-black-friday-deal/"
+   },
+   {
+    "h": "Home Depot’s Black Friday sale is live now: Our favorite deals",
+    "pub": "ZDNet",
+    "d": "11-05",
+    "read": 7230,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.zdnet.com/home-and-office/best-early-black-friday-home-depot-deals-2026/"
+   },
+   {
+    "h": "Your Apple Watch has 2 new controversial listening features - but you have to opt in",
+    "pub": "ZDNet",
+    "d": "11-03",
+    "read": 7220,
+    "bench": "slightly below",
+    "hl": false,
+    "ai": true,
+    "url": "https://www.zdnet.com/tech/apple-watch-siri-recap-live-rewind-available-beta-how-to-try/"
+   },
+   {
+    "h": "Amazon’s Black Friday Returns on Nov. 19 With up to 65% off — Shop Early Deals Now",
+    "pub": "Today",
+    "d": "11-10",
+    "read": 7173,
+    "bench": "above",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.today.com/shop/amazon-black-friday-early-deals-2026-rcna608293"
+   },
+   {
+    "h": "The best early Black Friday TV deals are all at Best Buy",
+    "pub": "ZDNet",
+    "d": "11-03",
+    "read": 6739,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": true,
+    "url": "https://www.zdnet.com/home-and-office/best-early-black-friday-tv-deals-2026/"
+   },
+   {
+    "h": "Amazon Black Friday 2026 Dates and 53 Best Early Deals",
+    "pub": "Eating Well",
+    "d": "11-10",
+    "read": 6653,
+    "bench": "",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.eatingwell.com/amazon-black-friday-2026-announcement-early-deals-12245269"
+   },
+   {
+    "h": "Forget waiting for Black Friday: Amazon’s early deals start for under $10",
+    "pub": "New York Post",
+    "d": "11-09",
+    "read": 6470,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://nypost.com/shopping/amazon-early-black-friday-deals-2026/"
+   },
+   {
+    "h": "Don't wait for Travel Tuesday: Skyscanner has a little secret about scoring cheaper flights",
+    "pub": "New York Post",
+    "d": "11-10",
+    "read": 6315,
+    "bench": "slightly below",
+    "hl": false,
+    "ai": false,
+    "url": "https://nypost.com/2026/11/10/shopping/black-friday-vs-travel-tuesday-2026-when-to-book-cheaper-flights-with-skyscanner/"
+   },
+   {
+    "h": "The 45+ Best Early Black Friday Deals From HigherDose, West Elm And More",
+    "pub": "Forbes",
+    "d": "11-09",
+    "read": 6191,
+    "bench": "slightly above",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.forbes.com/sites/forbes-personal-shopper/2026/11/09/black-friday-deals/"
+   },
+   {
+    "h": "Your November Money Horoscope",
+    "pub": "Bustle",
+    "d": "11-02",
+    "read": 6084,
+    "bench": "slightly above",
+    "hl": false,
+    "ai": true,
+    "url": "https://www.bustle.com/life/november-2026-money-horoscope-each-zodiac-sign"
+   },
+   {
+    "h": "12 best early Black Friday laptop deals: MacBooks, Galaxy Books, and more",
+    "pub": "ZDNet",
+    "d": "11-02",
+    "read": 5905,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.zdnet.com/tech/best-early-black-friday-laptop-deals-2026/"
+   },
+   {
+    "h": "The Holiday Toys to Buy Before They Sell Out",
+    "pub": "New York Magazine",
+    "d": "11-17",
+    "read": 5877,
+    "bench": "meets",
+    "hl": false,
+    "ai": false,
+    "url": "https://nymag.com/strategist/article/top-kids-toys-for-christmas-2026.html"
+   },
+   {
+    "h": "Save These Black Friday Deals Now, Shop Them Later",
+    "pub": "New York Magazine",
+    "d": "11-04",
+    "read": 5754,
+    "bench": "meets",
+    "hl": true,
+    "ai": false,
+    "url": "https://nymag.com/strategist/article/what-will-be-on-sale-for-black-friday-2026.html"
+   },
+   {
+    "h": "The Verge's guide to Black Friday 2026",
+    "pub": "The Verge",
+    "d": "11-09",
+    "read": 5387,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.theverge.com/gadgets/1027765/black-friday-cyber-monday-guide-2026"
+   },
+   {
+    "h": "Amazon just dropped $99 off the iPad Air ahead of Black Friday",
+    "pub": "ZDNet",
+    "d": "11-09",
+    "read": 5376,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.zdnet.com/tech/apple-ipad-air-m4-black-friday-deal/"
+   },
+   {
+    "h": "Amazon Black Friday Sale 2026 Dates and Kitchen Deals to Shop Now",
+    "pub": "Food & Wine",
+    "d": "11-10",
+    "read": 5321,
+    "bench": "",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.foodandwine.com/amazon-black-friday-sale-announcement-early-deals-2026-12245322"
+   },
+   {
+    "h": "GTA 6 pre-order is under £49 in PS5 launch deal as pre-load gets underway",
+    "pub": "The Mirror",
+    "d": "11-10",
+    "read": 5289,
+    "bench": "slightly below",
+    "hl": false,
+    "ai": false,
+    "url": "https://www.mirror.co.uk/lifestyle/staying-in/video-games/gta-6-preorder-ps5-preload-37857650"
+   },
+   {
+    "h": "The 10 best early Black Friday Amazon deals so far",
+    "pub": "ZDNet",
+    "d": "11-01",
+    "read": 5055,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": true,
+    "url": "https://www.zdnet.com/home-and-office/best-early-black-friday-amazon-deals-2026/"
+   },
+   {
+    "h": "Black Friday 2026: Running list of major retailers’ sales plans",
+    "pub": "Washington Times",
+    "d": "11-04",
+    "read": 5006,
+    "bench": "above",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.washingtontimes.com/news/2026/nov/4/black-friday-2026-running-list-major-retailers-sales-plans/"
+   },
+   {
+    "h": "Ready or Not, the Early Black Friday Menswear Deals Are Here",
+    "pub": "GQ",
+    "d": "11-03",
+    "read": 4890,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.gq.com/story/early-black-friday-clothing-deals-2026"
+   },
+   {
+    "h": "Get Google’s Great Pixel 11 Phones for Less",
+    "pub": "Wired",
+    "d": "11-04",
+    "read": 4776,
+    "bench": "slightly below",
+    "hl": false,
+    "ai": false,
+    "url": "https://www.wired.com/story/google-pixel-11-deal-november-2026/"
+   },
+   {
+    "h": "Sony's premium WH-1000XM6 headphones are back down to their lowest price ever ahead of Black Friday",
+    "pub": "ZDNet",
+    "d": "11-02",
+    "read": 4749,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.zdnet.com/tech/sony-wh-1000xm6-headphones-black-friday-deal/"
+   },
+   {
+    "h": "Black Friday Is Coming and You Can Shop Early Deals Now From Ulta, Net-a-Porter, Nordstrom, and more.",
+    "pub": "The Cut",
+    "d": "11-09",
+    "read": 4684,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.thecut.com/article/best-early-black-friday-deals-2026.html"
+   },
+   {
+    "h": "AMD confirms GPU driver bug is wearing out your SSD – how to stop it",
+    "pub": "ZDNet",
+    "d": "11-09",
+    "read": 4669,
+    "bench": "slightly below",
+    "hl": false,
+    "ai": false,
+    "url": "https://www.zdnet.com/tech/amd-confirms-gpu-driver-bug-is-wearing-out-your-ssd-how-to-stop-it/"
+   },
+   {
+    "h": "These Like-New Kindles Are up to $75 Off Ahead of Black Friday",
+    "pub": "Lifehacker",
+    "d": "11-10",
+    "read": 4459,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://lifehacker.com/tech/like-new-kindle-sales-early-black-friday-2026"
+   },
+   {
+    "h": "Boots Black Friday Star Gift deals are back saving shoppers hundreds of pounds",
+    "pub": "The Mirror",
+    "d": "11-11",
+    "read": 4303,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.mirror.co.uk/money/shopping-deals/boots-black-friday-star-gift-37804462"
+   },
+   {
+    "h": "Google’s Pixel 11 phones are up to 27 percent off",
+    "pub": "The Verge",
+    "d": "11-04",
+    "read": 4146,
+    "bench": "slightly below",
+    "hl": false,
+    "ai": false,
+    "url": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale"
+   },
+   {
+    "h": "Lidl Black Friday 2026 predictions as Martin Lewis’ MSE says 'don’t wait'",
+    "pub": "The Mirror",
+    "d": "11-01",
+    "read": 3902,
+    "bench": "slightly below",
+    "hl": true,
+    "ai": false,
+    "url": "https://www.mirror.co.uk/money/shopping-deals/lidl-black-friday-2026-predictions-37817851"
+   }
+  ]
+ },
+ "SIG": {
+  "Amazon": 45371,
+  "Apple": 16448,
+  "Samsung": 26498,
+  "Costco": 3124,
+  "Walmart": 11323,
+  "Best Buy": 3287,
+  "Home Depot / Lowe's": 12966,
+  "Lidl / Aldi": null,
+  "Target": 931,
+  "Sony / PlayStation": 4923
+ },
+ "AUD": {
+  "retail": {
+   "label": "Retailers",
+   "intro": "For retailers such as Walmart, Target, Best Buy and Costco: you are fighting for share of voice against Amazon in a season that is mostly about price.",
+   "items": [
+    {
+     "t": "Claim a mechanic Amazon is not owning",
+     "why": "Amazon has 45,371 stories against Walmart 11,323, Costco 3,124, Best Buy 3,287 and Target 931. Price match and record-low pricing (7,210), trade-in and member perks (4,496) and financing (2,535) are all far less crowded than \"% off\" (55,485).",
+     "do": "Pick one differentiator and lead every announcement with it, instead of competing on generic discount language."
+    },
+    {
+     "t": "Turn neutral coverage into positive",
+     "why": "Costco is 35% positive and Target 44%, against 52% to 55% for Walmart, Amazon and Best Buy. Headlines that name a product and a price (\"$510 vacuum for $140\") are the ones being repeated. In the readership sample, explainers do best: \"Walmart Will Have Three Major Shopping Events\" (32,727 total readership) and a Costco best-times piece (30,587) were among the most read.",
+     "do": "Replace \"great deals\" copy with named products, real prices and clear start and end dates."
+    },
+    {
+     "t": "Stagger, do not drop",
+     "why": "Last year Black Friday week was 681,707 stories and the week after still ran at 378,232. Early-access language already appears in 14,904 stories.",
+     "do": "Spread announcements across 23 to 30 Nov and hold a second wave for Cyber Monday and the tail."
+    }
+   ]
+  },
+  "brands": {
+   "label": "Consumer brands",
+   "intro": "For manufacturers whose products are the deal: Samsung, Apple, Sony, Nike and their peers. You appear in other people's promotions, so retailer partners shape your story.",
+   "items": [
+    {
+     "t": "Brief retail partners before the peak",
+     "why": "Samsung (26,498 stories) and Apple (16,448) rank second and third, ahead of every retailer except Amazon, most likely because their products headline other retailers' deals. In a keyword scan of the readership sample, headlines naming Amazon carry 26% of total readership and Apple 7%.",
+     "do": "Share approved price points, claims and product naming with key retail partners this week."
+    },
+    {
+     "t": "Read the sentiment behind the number",
+     "why": "Samsung is 63% positive. Apple is 29% positive and 67% neutral, with 747 negative stories, the most of any brand tracked.",
+     "do": "Pull the negative Apple-style stories for your own brand and find the pattern now, while there is time to respond."
+    },
+    {
+     "t": "Weight effort to the categories that are loud",
+     "why": "Electronics lead (24,372), then fashion and beauty (18,124), home and kitchen (17,014) and gaming (16,917). Cars and EVs (14,210) and travel (11,899) show deals are not only gadgets.",
+     "do": "Match launch support and ad spend to the categories where your mentions already cluster."
+    }
+   ]
+  },
+  "market": {
+   "label": "Marketplaces and sellers",
+   "intro": "For marketplaces, DTC brands and third-party sellers such as Temu, Shein, Etsy and eBay: low volume, but the thinnest margin for a reputational hit.",
+   "items": [
+    {
+     "t": "Find out what drives the negatives now",
+     "why": "Temu is 8.8% negative on 455 stories and Shein 4.9% on 506, the two highest shares among the brands tracked. Both are small against Amazon's 45,371.",
+     "do": "Read the negative stories, categorise the themes and prepare holding statements before volume multiplies."
+    },
+    {
+     "t": "Put counterfeit and fake-deal risk on watch",
+     "why": "Scam, fraud and fake-discount stories reach 7,418. A 5 Nov event warned sellers on Etsy and Amazon about brand risk ahead of Black Friday.",
+     "do": "Set a watchlist of your brand plus scam, fake and counterfeit, and agree who responds and how."
+    },
+    {
+     "t": "Make delivery and value promises explicit",
+     "why": "Free shipping and delivery appears in 6,872 stories and trade-in, cashback and member perks in 4,496.",
+     "do": "State delivery cut-off dates and return terms up front, since these are the mechanics shoppers read about."
+    }
+   ]
+  },
+  "comms": {
+   "label": "Comms and PR",
+   "intro": "For in-house and agency teams trying to be heard: coverage is loud and most of it is promotional.",
+   "items": [
+    {
+     "t": "Lead with an angle, not another discount",
+     "why": "Economic pressure (13,164 stories), scam warnings (7,418), AI shopping tools (6,996) and travel deals (11,899) run alongside the promotions. Many detected events are issuer press releases. In a keyword scan of the readership sample, articles framed around \"early\" deals drew 51% of total readership and guide-style pieces 15%, against 13% for percentage-off language. Articles tagged with AI have a median readership of 3,159, 2.7&times; the 1,158 overall.",
+     "do": "Pitch data, consumer advice and trend angles instead of another sale announcement."
+    },
+    {
+     "t": "Match the channel to the goal",
+     "why": "Broadcast is 301,925 of 435,855 stories (69%), News 101,702, Social 15,792.",
+     "do": "Use broadcast for reach and promotion, and News for editorial credibility. Filter by media type when you report."
+    },
+    {
+     "t": "Localise",
+     "why": "By source country the US leads (116,325), followed by Australia (90,333), the UK (86,529) and Canada (57,171).",
+     "do": "Do not treat Black Friday as a US-only story. Adapt timing and offers for Australia, the UK and Canada."
+    },
+    {
+     "t": "Aim at the publishers people actually read",
+     "why": "Lifehacker has average readership of 10,347 across 10 articles and Today 13,638 across 3, while Business Insider has 22 articles with a median readership of 67. Business and financial outlets are 17% of articles but 5% of total readership. Lifestyle and tech titles carry the attention.",
+     "do": "Rank target publishers by average readership, not by how many pieces they publish. Lead with dated guides and early-access calendars."
+    }
+   ]
+  },
+  "risk": {
+   "label": "Risk and corporate affairs",
+   "intro": "For risk, legal and corporate affairs teams: the season brings workforce, safety and consumer-protection exposure as well as sales.",
+   "items": [
+    {
+     "t": "Watch the seasonal workforce",
+     "why": "Signal detected stories on seasonal-worker injury risk (3 Nov) and, on 18 Nov, Starbucks and Amazon worker campaigns stepping up as the holidays approach.",
+     "do": "Alert on your brand plus strike, walkout, injury and safety, and brief spokespeople before BF week."
+    },
+    {
+     "t": "Prepare for scam and fraud spikes",
+     "why": "7,418 stories already combine Black Friday or Cyber Monday with scam, fraud, phishing or fake-discount language. The one scam-warning piece in the readership sample (Fox News) drew 1,869 total readership, far below the 3,793 average across the sample.",
+     "do": "Have customer-warning copy and a takedown route ready for fake sites and phishing using your name."
+    },
+    {
+     "t": "Audit discount claims",
+     "why": "Consumer-protection guidance is already out (for example Brazil's Procon on 18 Nov) and fake-discount stories sit inside the 7,418.",
+     "do": "Check \"was and now\" pricing and \"lowest ever\" claims against your price history before they go live."
+    }
+   ]
+  }
+ },
+ "RUN": [
+  [
+   "Now to 22 Nov: build",
+   [
+    "Benchmark your share of voice against Amazon and two direct rivals",
+    "Lock your headline mechanic and proof points (named products, real prices)",
+    "Audit discount claims and \"was and now\" pricing before they go public",
+    "Set Signal alerts for brand with scam, counterfeit, strike and injury terms"
+   ]
+  ],
+  [
+   "23 to 29 Nov: Black Friday week, the peak",
+   [
+    "Check share of voice and sentiment daily against the 2025 peak shape above",
+    "Keep reactive statements approved for stock-outs, outages and fake-deal warnings",
+    "Stagger announcements across the week rather than one drop"
+   ]
+  ],
+  [
+   "30 Nov to 6 Dec: Cyber Monday and the tail",
+   [
+    "Pitch a post-Black-Friday angle: last year the following week still ran at 55% of peak",
+    "Capture results and sentiment drivers for the post-mortem",
+    "Feed the learnings into January sales planning"
+   ]
+  ]
+ ]
+}
